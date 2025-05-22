@@ -7,7 +7,7 @@
 
 ## My Tech!
 
-- **Languages** - C C++ Java Python JavaScript SQL Assembly8086
+- **Languages** - [C] C++ Java Python JavaScript SQL Assembly8086
 - **Backend** - Node.js Express.js FASTAPI
 - **Frontend** - React
 - **Database** - POSTGRESQL ORACLEDB 
