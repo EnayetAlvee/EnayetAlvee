@@ -7,15 +7,46 @@
 
 ## My Tech!
 
-- **Languages** - C C++ Java Python JavaScript SQL Assembly8086
-- **Backend** - Node.js Express.js FASTAPI
-- **Frontend** - React
-- **Database** - POSTGRESQL ORACLEDB 
-- **Data Stores** - Redis
-- **Tools** - Git Github 
-- **Infra** - Docker Linux
-- **Cloud** - Azure Cloud Service
-- **Productivity** - MS Powerpoint MS Excell Ms Word
+- **Languages**:  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">C++</span>  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Java</span>  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Python</span>  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">JavaScript</span>  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">SQL</span>  
+
+- **Backend**:  
+  <span style="border: 2px solid #bd93f9; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Node.js</span>  
+  <span style="border: 2px solid #bd93f9; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Express.js</span>  
+  <span style="border: 2px solid #bd93f9; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">FASTAPI</span>  
+
+- **Frontend**:  
+  <span style="border: 2px solid #8be9fd; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">React</span>  
+
+- **Database**:  
+  <span style="border: 2px solid #50fa7b; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">POSTGRESQL</span>  
+  <span style="border: 2px solid #50fa7b; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">ORACLEDB</span>  
+  <span style="border: 2px solid #50fa7b; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">MONGODB</span>  
+
+- **Data Stores**:  
+  <span style="border: 2px solid #ffb86c; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Redis</span>  
+
+- **Tools**:  
+  <span style="border: 2px solid #ff5555; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Git</span>  
+  <span style="border: 2px solid #ff5555; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Github workflow</span>  
+
+- **Testing**:  
+  <span style="border: 2px solid #f1fa8c; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Test Container</span>  
+
+- **Infra**:  
+  <span style="border: 2px solid #6272a4; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Docker</span>  
+  <span style="border: 2px solid #6272a4; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Linux</span>  
+
+- **Cloud**:  
+  <span style="border: 2px solid #ff79c6; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Azure Cloud Service</span>  
+
+- **Productivity**:  
+  <span style="border: 2px solid #bd93f9; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">MS Powerpoint</span>  
+  <span style="border: 2px solid #bd93f9; border-radius: 50%; padding: 5px 10px; margin: 5px; display: inline-block;">Adobe Photoshop</span>
 
 ## Hobbies 🎉
 
