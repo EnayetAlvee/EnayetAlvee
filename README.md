@@ -1,6 +1,8 @@
 ## Hi there 👋
-### Profile Visitors  
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=EnayetAlvee.Enayet)
+# Welcome to my GitHub Profile 👋
+
+### Profile Views  
+![](https://komarev.com/ghpvc/?username=EnayetAlvee&color=green)
 <!--
 **EnayetAlvee/EnayetAlvee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
