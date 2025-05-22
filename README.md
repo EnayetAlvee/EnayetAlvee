@@ -5,17 +5,18 @@
 **Profile views**  
 ![](https://komarev.com/ghpvc/?username=EnayetAlvee&color=blue)
 
-## My Tech!
+# My Tech!
 
-- **Languages** - C C++ Java Python JavaScript SQL Assembly8086
-- **Backend** - Node.js Express.js FASTAPI
-- **Frontend** - React
-- **Database** - POSTGRESQL ORACLEDB 
-- **Data Stores** - Redis
-- **Tools** - Git Github 
-- **Infra** - Docker Linux
-- **Cloud** - Azure Cloud Service
-- **Productivity** - MS Powerpoint MS Excell Ms Word
+- **Languages** - `C` `C++` `Java` `Python` `JavaScript` `SQL` `Assembly8086`
+- **Backend** - `Node.js` `Express.js` `FASTAPI`
+- **Frontend** - `React`
+- **Database** - `POSTGRESQL` `ORACLEDB`
+- **Data Stores** - `Redis`
+- **Tools** - `Git` `Github`
+- **Infra** - `Docker` `Linux`
+- **Cloud** - `Azure Cloud Service`
+- **Productivity** - `MS Powerpoint` `MS Excell` `Ms Word`
+
 
 ## Hobbies 🎉
 
