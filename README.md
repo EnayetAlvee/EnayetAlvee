@@ -3,7 +3,7 @@
 *Alltime learner*
 
 **Profile views**  
-![](https://komarev.com/ghpvc/?username=EnayetAlvee&color=green)
+![](https://komarev.com/ghpvc/?username=EnayetAlvee&color=blue)
 
 ## My Tech!
 
